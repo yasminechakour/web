@@ -1,0 +1,22 @@
+Day,Accident_Severity,number of accidents
+Monday,1,703
+Monday,2,9109
+Monday,3,56912
+Tuesday,1,706
+Tuesday,2,9681
+Tuesday,3,59926
+Wednesday,1,643
+Wednesday,2,9541
+Wednesday,3,59648
+Thursday,1,694
+Thursday,2,9829
+Thursday,3,60119
+Friday,1,2994
+Friday,2,10630
+Friday,3,64602
+Saturday,1,2845
+Saturday,2,1809
+Saturday,3,50403
+Sunday,1,2439
+Sunday,2,8476
+Sunday,3,40994
