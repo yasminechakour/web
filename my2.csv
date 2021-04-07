@@ -1,0 +1,36 @@
+Speed_limit,Road_Type,number of accidents
+10,Single carriageway,1
+20,Dual carriageway,213
+20,One way street,702
+20,Roundabout,256
+20,Single carriageway,7723
+20,Slip road,15
+20,Unknown,146
+30,Dual carriageway,18861
+30,One way street,8112
+30,Roundabout,20194
+30,Single carriageway,255211
+30,Slip road,1276
+30,Unknown,1182
+40,Dual carriageway,10723
+40,One way street,128
+40,Roundabout,4821
+40,Single carriageway,21389
+40,Slip road,387
+40,Unknown,90
+50,Dual carriageway,5825
+50,One way street,31
+50,Roundabout,1605
+50,Single carriageway,9353
+50,Slip road,472
+50,Unknown,26
+60,Dual carriageway,2626
+60,One way street,100
+60,Roundabout,3398
+60,Single carriageway,57580
+60,Slip road,585
+60,Unknown,169
+70,Dual carriageway,27749
+70,Roundabout,1578
+70,Slip road,2092
+70,Unknown,65
